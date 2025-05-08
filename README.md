@@ -1,14 +1,9 @@
-# {PROJECT NAME}
+# Activity Tables
 ## NHS England South West Intelligence and Insights
 
 ### About the Project
 
-{ADD EXPERIMENTAL STATUS BADGE IF PROJECT IS IN DEVELOPMENT}
-[![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
-
-This repository holds code for the {PROJECT NAME} {SHORT DESCRIPTION}
-
-_**Note:** Only public or fake data are shared in this repository._
+Sql code for creating SW Activity Tables 
 
 ### Project Stucture
 
@@ -21,10 +16,8 @@ _**Note:** Only public or fake data are shared in this repository._
 
 {LIST SOFTWARE USED TO CREATE PROJECT}
 
-[R Studio](http://www.rstudio.com/.)  
-[R Statistical Software](https://www.R-project.org/.)  
 [SQL SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)  
-[!Python v3.8](https://www.python.org/downloads/release/python-380/)  
+
 
 - {LIST OF MAIN PACKAGE VERSIONS}
 
@@ -37,30 +30,19 @@ To get a local copy up and running follow these simple steps.
 
 To clone the repo:
 
-`git clone https://github.com/nhsx/{REPO NAME}`
+`git clone https://github.com/nhsx/Activity-Tables`
 
-{ADDITIONAL TECHNICAL SUPPORT AND NEEDS} 
+
 
 ### Usage
-{DESCRIPTION OF CODE}
-{DESCRIPTION OF PROCESS AND TECHNIQUES UTILISED}
-{METHODOLOGY USED}
+Sql code for creating SW Activity Tables
 
 #### Outputs
-{LIST AND DESCRIPTION OF OUTPUTS}
-
-{NOTES ON REPRODUCIBILITY OF RESULTS}
-
-#### Datasets
-{DESCRIPTION AND LINKS TO DATASETS}
-
-{LINK TO FAKE DATA TO SUPPORT INITAIL CODE RUNS}
-
-### Roadmap
-
-See the {LINK TO REPO ISSUES} for a list of proposed features (and known issues).
+SW Activity Tables
 
 ### Contributing
+
+Thanks to Dezilou for all the hard work on this
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
